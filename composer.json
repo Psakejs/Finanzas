@@ -1,0 +1,20 @@
+{
+    "name": "alejandropr/basesdedatos",
+    "description": "Proyecto del curso",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Database\\": "database/",
+            "App\\": "app/",
+            "Router\\":"router/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Psakejs",
+            "email": "patpampam4@gmail.com"
+        }
+    ],
+    "require": {}
+}
